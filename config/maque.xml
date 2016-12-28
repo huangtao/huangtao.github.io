@@ -3,7 +3,7 @@
     <global windows_version="1.0.1" android_versoin="1.0.2"
         web="https://huangtao.github.io/qipai/"
         config_url="https://huangtao.github.io/config/maque.xml"
-        windows_url="https://huangtao.github.io/download/杭州麻将.exe"
+        windows_url="http://www.gameld.com/downloads/杭州麻将.exe"
         android_url="https://huangtao.github.io/download/杭州麻将1.0.2.apk"
         title="杭州麻将" />
     <servers>

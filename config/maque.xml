@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ClientConfig version="20160909">
+    <global windows_version="1.0.0" android_versoin="1.0.2"
+        web="https://huangtao.github.io/qipai/"
+        config_url="https://huangtao.github.io/config/maque.xml"
+        windows_url="https://huangtao.github.io/download/杭州麻将.exe"
+        android_url="https://huangtao.github.io/download/杭州麻将1.0.2.apk"
+        title="杭州麻将" />
+    <servers>
+        <server id="1" host="42.120.18.183" port="6666" />
+        <server id="2" host="www.gameld.com" port="6666" />
+    </servers>
+    <games>
+        <game id="1" name="杭州麻将" />
+        <game id="2" name="德州扑克" />
+    </games>
+</ClientConfig>

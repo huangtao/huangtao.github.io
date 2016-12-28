@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ClientConfig company="gameld" web="www.gameld.com" version="20160909" android_versoin="1.0.2">
+    <Servers>
+        <server id="1" host="www.gameld.com" port="7148" />
+        <server id="2" host="115.29.220.163" port="7148" />
+    </Servers>
+    <Games>
+        <game id="24" name="关牌" version="0.0.0.14" />
+        <game id="6" name="德州扑克" version="0.0.0.8" />
+    </Games>
+</ClientConfig>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ClientConfig version="20160909">
-    <global windows_version="1.0.1" android_versoin="1.0.2"
+    <global windows_version="1.0.2" android_versoin="1.0.2"
         web="https://huangtao.github.io/qipai/"
         config_url="https://huangtao.github.io/config/maque.xml"
         windows_url="http://www.gameld.com/downloads/杭州麻将.exe"
